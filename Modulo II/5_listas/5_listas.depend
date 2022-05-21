@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570310911 source:c:\users\user\desktop\5_listas\main.cpp
+	<iostream>
+	<stdio.h>
+
+1572209060 source:c:\users\user\desktop\ejercicios de algoritmos\modulo ii\5_listas\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

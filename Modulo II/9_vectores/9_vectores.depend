@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567875559 source:c:\users\user\desktop\ejercicios de algoritmos\modulo ii\9_vectores\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570822759 source:c:\users\user\desktop\ejercicios de algoritmos\modulo ii\7_archivos\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
